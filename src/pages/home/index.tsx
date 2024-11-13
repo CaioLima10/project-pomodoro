@@ -17,7 +17,7 @@ export function Home() {
         <S.CountDownContainer>
           <span>0</span>
           <span>0</span>
-          <span>:</span>
+          <S.Separator>:</S.Separator>
           <span>0</span>
           <span>0</span>
         </S.CountDownContainer>
