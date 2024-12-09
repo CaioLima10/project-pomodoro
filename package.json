@@ -12,6 +12,7 @@
   "dependencies": {
     "@hookform/resolvers": "^3.9.1",
     "@types/styled-components": "^5.1.34",
+    "date-fns": "^4.1.0",
     "phosphor": "^0.7.1",
     "phosphor-react": "^1.4.1",
     "project-pomodoro": "file:",
